@@ -18,7 +18,7 @@ Tijdens ons onderzoek werken wij met de ontwikkelmethode [Scrum](http://www.scru
 
 
 ### Python notebooks
-Op [deze pagina](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#python-notebooks) staan alle notebooks die ik, alleen of in samenwerking, heb gemaakt voor het onderzoek.
+Op [deze pagina](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/python%20notebooks/notebooks.md) staan alle notebooks die ik, alleen of in samenwerking, heb gemaakt voor het onderzoek.
 
 
 ### Opdrachten workshops
