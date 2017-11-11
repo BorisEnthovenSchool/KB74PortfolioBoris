@@ -1,12 +1,12 @@
 Portfolio Boris Enthoven - 13075837
 ============================
 Tijdens de minor KB-74 aan De Haagse Hogeschool hebben we onderzoek gedaan met een groep studenten naar hoe wij arsten kunnen ondersteunen bij het revalideren van schouderpatiënten. Dit portfolio bevat de bijdrage die ik aan het onderzoek heb geleverd. Mijn portfolio bestaat uit de volgende onderdelen:
-* [Scrum taken](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#scrum-taken)
-* [Python notebooks](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#python-notebooks)
-* [Opdrachten workshops](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#opdrachten-workshops)
-* [Online courses](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#online-courses)
-* [Presentaties](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#presentaties)
-* [EM-Fields](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#em-fields)
+* [Scrum taken](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/Portfolio.md#scrum-taken)
+* [Python notebooks](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/Portfolio.md#python-notebooks)
+* [Opdrachten workshops](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/Portfolio.md#opdrachten-workshops)
+* [Online courses](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/Portfolio.md#online-courses)
+* [Presentaties](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/Portfolio.md#presentaties)
+* [EM-Fields](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/Portfolio.md#em-fields)
 
 
 ### Pepper
