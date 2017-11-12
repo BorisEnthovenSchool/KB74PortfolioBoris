@@ -10,5 +10,5 @@ Mijn bijdrage aan het EM-fields project en het Pepper project heb ik van elkaar 
 ### Mijn bijdrage
 
 * Presentatie week 2 samen met Viradj
-* Paper gelezen~~(link toevoegen)~~
+* Paper gelezen ~~(link toevoegen)~~.
 * Inlezen op EM-fields, wat houdt het in en hoe werken het?
