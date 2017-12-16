@@ -1,4 +1,11 @@
-### Online courses
+## Online courses
 
-Dit zijn alle datacamp courses die ik heb gemaakt. Dit waren alle aangeraden courses die je moest afronden.
-![alt text](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/online%20courses/Datacamp%20courses.png "Datacamp")
+### Datacamp courses
+![Datacamp courses](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/online%20courses/Datacamp%20courses.png "Datacamp")
+
+### Spark assignments
+* [Assignment 1](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/online%20courses/Assignment1.md)
+* [Assignment 2](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/online%20courses/Assignment2.md)
+
+### Exploratory Data Analysis
+* ~~To be completed~~
