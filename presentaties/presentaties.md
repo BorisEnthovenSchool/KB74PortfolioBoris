@@ -1,11 +1,11 @@
 ### Presentaties
 
 De presentaties die ik gegeven heb of waaraan ik heb bijgedragen zijn(dd-MM-yyyy):
-* [P9 intern (15-12-2017)](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Intern%20P9.pptx.pdf)
-* [P8 extern (08-12-2017)](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P8.pptx.pdf)
-* [P6 extern (24-11-2017)](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P6.pptx.pdf)
-* [P4 extern (10-11-2017)](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P4.pdf)
-* [P2 extern (22-09-2017)](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P2.pdf)
+* [P9 intern (15-12-2017).pdf](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Intern%20P9.pptx.pdf)
+* [P8 extern (08-12-2017).pdf](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P8.pptx.pdf)
+* [P6 extern (24-11-2017).pdf](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P6.pptx.pdf)
+* [P4 extern (10-11-2017).pdf](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P4.pdf)
+* [P2 extern (22-09-2017).pdf](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P2.pdf)
 
 ### Korte samenvatting van de powerpoints
 P9 intern:
