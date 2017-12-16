@@ -1,1 +1,9 @@
-# hierin beschrijf ik de opdrachten voor de workshops die ik heb uitgevoerd. hieronder vallen onder andere de pyspark tutorial en de bullshit opdracht.
+## Opdrachten workshops
+
+
+### Spark assignments
+* [Assignment 1](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/online%20courses/assignment1.md)
+* [Assignment 2](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/online%20courses/assignment2.md)
+
+### Exploratory Data Analysis
+* ~~To be completed~~
