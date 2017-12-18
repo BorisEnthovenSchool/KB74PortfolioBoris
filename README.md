@@ -5,6 +5,7 @@ Tijdens de minor KB-74 aan De Haagse Hogeschool hebben we onderzoek gedaan met e
 * [Python notebooks](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#python-notebooks)
 * [Opdrachten workshops](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#opdrachten-workshops)
 * [Online courses](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#online-courses)
+* [Literatuur](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#literatuur)
 * [Presentaties](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#presentaties)
 * [EM-Fields](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/README.md#em-fields)
 
@@ -28,6 +29,9 @@ Op [deze pagina](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/
 ### Online courses
 Vanuit De Haagse Hogeschool zijn een aantal online courses geregeld die ons basiskennis moeten geven over de onderwerpen machine learning, data science, data cleaning, etc. Op [deze pagina](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/online%20courses/courses.md) staan alle online courses die ik gevolgd heb.
 
+
+### Literatuur
+Aan het begin van elk onderzoek moet er literatuur gelezen worden om kennis op te doen. Hiervoor hebben wij een literatuurlijst gemaakt waarvan ik meerdere papers heb gelezen. Kijk op [deze pagina](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/literatuur/literatuur.md) voor de samenvattingen of de reden waarom wij er niets aan hebben in ons onderzoek.
 
 ### Presentaties
 Aan het eind van elke week geven wij een presentatie met daarin wat we de afgelopen week hebben gedaan en wat het plan is voor de aankomende week. Een keer in de twee weken is deze presentatie ook voor externe personen bedoeld. Omdat we werken in sprints van 2 weken is besloten om elke even week een externe presentatie te geven en elke oneven week een interne presentatie. De eerste presentatie startte op 1 september. Tussendoor hebben we een week herfstvakantie(16 oktober 2017 t/m 20 oktober 2017) en twee weken kerstvakantie(25 december 2017 t/m 5 januari 2018) die ervoor zorgen dat de presentaties opschuiven. [Hier](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/presentaties.md) kunt u zien welke presentaties ik gegeven heb en waar deze over gingen.
