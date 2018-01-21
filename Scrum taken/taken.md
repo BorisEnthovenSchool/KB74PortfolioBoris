@@ -8,7 +8,7 @@ In deze sprint heb ik voor een ander project gewerkt namelijk EM-fields. Alles w
 ![Sprint 3](KB74%20Scrum%20sprint%203%20raw.png "Sprint 3")
 
 ### Sprint 4
-![Sprint 4](KB74%20Scrum%20sprint%204%20raw.png "Sprint 4")
+~~Afbeelding toevoegen~~
 
 ### Sprint 5
 ![Sprint 5](KB74%20Scrum%20sprint%205%20raw.png "Sprint 5")
