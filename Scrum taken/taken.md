@@ -3,10 +3,11 @@ Hieronder staan een aantal screenshots die laten zien aan welke taken ik gewerkt
 
 ### Sprint 1 - 2
 In deze sprint heb ik voor een ander project gewerkt namelijk EM-fields. Alles wat ik voor dit project heb gedaan heb ik op een aparte pagina gezet. Via [deze link](../EM-fields/em-fields.md) kunt u naar die pagina komen.
+- Samen met Jordy de externe [presentatie](../presentaties/presentaties.md) gegeven
 
 ### Sprint 3
 ![Sprint 3](KB74%20Scrum%20sprint%203%20raw.png "Sprint 3")
-- Samen met Jordy de externe [presentatie](../presentaties/presentaties.md) gegeven
+- [Presentatie](../presentaties/presentaties.md) gegeven
 - Ingelezen in de zaken die het Pepper team al had onderzocht.
 
 ### Sprint 4
@@ -17,6 +18,7 @@ In deze sprint heb ik voor een ander project gewerkt namelijk EM-fields. Alles w
 
 ### Sprint 5
 ![Sprint 5](KB74%20Scrum%20sprint%205%20raw.png "Sprint 5")
+
 -UI van het opname programma gemaakt
 -Restart Kinect knop toegevoegd zodat de Kinect weer kan worden gestart op het moment dat je hem uit de USB poort haalt en er terug in stopt.
 - Tweede technische meeting genotuleerd(was om ervoor te zorgen dat het kinect opname programma zsm af was).
