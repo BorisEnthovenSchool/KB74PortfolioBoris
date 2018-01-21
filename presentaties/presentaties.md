@@ -1,13 +1,23 @@
 ### Presentaties
 
 De presentaties die ik gegeven heb of waaraan ik heb bijgedragen zijn(dd-MM-yyyy):
-* [P9 intern (15-12-2017).pdf](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Intern%20P9.pptx.pdf)
-* [P8 extern (08-12-2017).pdf](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P8.pptx.pdf)
-* [P6 extern (24-11-2017).pdf](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P6.pptx.pdf)
-* [P4 extern (10-11-2017).pdf](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P4.pdf)
-* [P2 extern (22-09-2017).pdf](https://github.com/BorisEnthovenSchool/KB74PortfolioBoris/blob/master/presentaties/Extern%20P2.pdf)
+* [P9 intern (15-12-2017).pdf](presentaties/Extern%20P10.pptx.pdf)
+* [P9 intern (15-12-2017).pdf](presentaties/Intern%20P9.pptx.pdf)
+* [P8 extern (08-12-2017).pdf](presentaties/Extern%20P8.pptx.pdf)
+* [P6 extern (24-11-2017).pdf](presentaties/Extern%20P6.pptx.pdf)
+* [P4 extern (10-11-2017).pdf](presentaties/Extern%20P4.pdf)
+* [P2 extern (22-09-2017).pdf](presentaties/Extern%20P2.pdf)
 
 ### Korte samenvatting van de powerpoints
+P10 extern:
+* Afrondingsfase van het project, zaken genoemd die nog afgemaakt moeten worden.
+* Wat hebben we in het afgelopen half jaar gemaakt en wat willen we hiervan opleveren?
+* Nieuw cluster resultaat met maximale hoeken van linker- en rechterarm bij de 3e oefening.
+* Respons van meneer Vermeulen over de presentatie bij het LUMC(gaat niet voor het einde van de minor lukken)
+* Een dashboard ontwerp voor de volgende projectgroep, en de artsen die het willen hebben, gemaakt.
+* Opname gemaakt van het treintje voor een eventuele demo tijdens de presentaties.
+* Wat gaan we de komende weken doen?
+
 P9 intern:
 * Opnamen door de Haagse Hogeschool brede mail lopen succesvol.
 * In totaal meer dan 100 mensen opgenomen waarvan zeker 35 mensen die beweren schouderklachten te hebben.
