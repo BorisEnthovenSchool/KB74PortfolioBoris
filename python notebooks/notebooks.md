@@ -14,14 +14,18 @@ In het begin van het project bestond er nog geen manier om de juiste data uit de
 ### Grafieken maken
 Nadat de dataset online was gezet heeft iedereen van de groep de tijd gekregen om deze te verkennen. Hierbij ging het om het tonen van grafieken met de dataset. Hierbij heb ik een aantal soorten grafieken gemaakt. Hieronder staan een aantal grafieken met een korte beschrijving erbij.
 
+
 ![Coordinaten, snelheid en versnelling](coords%26V%26A_person_13_exercise_1.png "Linker- en rechterschouder en -elleboog")
 In bovenstaande figuur zie je van boven naar beneden de X, Y en Z grafieken. Hierbij is van links naar rechts te zien: coordinaten, snelheid en versnelling. Ik had mijn code zo geschreven dat dit in bulk uitgevoerd kon worden. Daarbij was de range in personen, excersises en joints zelf te configureren.
+
 
 ![YCoordinaten verandering Elbow en Hips](xyz_coords_elbows_and_hips.png "Verandering in hoogte")
 Verder heb ik nog een algoritme gemaakt om te kijken naar de heupen die bewegen op het moment dat iemand zijn omhoog doet tijdens oefening 1 en 2. Bovenstaand plaatje laat zien wat de elleboog coordinaten en de heup coordinaten zijn.
 
+
 ![Variërende armlengte tijdens de oefening](Varierende%20armlengtes.PNG "Variërende armlengte tijdens de oefening")
-Hier heb ik samen met laura naar gekeken. Dit zijn de bovenarm lengtes berekend van schouderjoint tot elleboogjoint. Deze varieerd tijdens de oefening en wij wilde weten hoeveel(oefening 1).
+
+Hier heb ik samen met laura naar gekeken. Dit zijn de bovenarm lengtes berekend van schouderjoint tot elleboogjoint. Deze varieerd tijdens de oefening en wij wilde weten hoeveel(oefening 1). Dit was voor persoon 4 en 5 waarbij er een duidelijk een variatie in te zien is.
 
 
 ## Hulp bij anderen
