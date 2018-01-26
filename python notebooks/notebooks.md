@@ -27,6 +27,7 @@ Verder heb ik nog een algoritme gemaakt om te kijken naar de heupen die bewegen 
 
 Hier heb ik samen met laura naar gekeken. Dit zijn de bovenarm lengtes berekend van schouderjoint tot elleboogjoint. Deze varieerd tijdens de oefening en wij wilde weten hoeveel(oefening 1). Dit was voor persoon 4 en 5 waarbij er een duidelijk een variatie in te zien is.
 
+Verder heb ik voor een groot gedeelte meegewerkt aan de Pepper train. Het treintje en het proces erachter waren lastig om op te zetten omdat iedereen zijn code anders had gemaakt. Bart en ik zijn hier veel tijd aan kwijt geweest maar uiteindelijk werkt het wel.
 
 ## Hulp bij anderen
 Niet alleen heb ik anderen geholpen met het leren programmeren, ook heb ik samen gewerkt met anderen om bepaalde producten tot stand te brengen. Denk bijvoorbeeld aan het treintje en het clusteren samen met Laura.
